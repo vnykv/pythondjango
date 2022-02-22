@@ -1,5 +1,14 @@
 h3{
-    color: aquamarine;
+    
     border: 80px blue;
     text-align: center;
+}
+#hi{
+    color: blue;
+}
+.hhi{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    width: 200px;
+
 }
