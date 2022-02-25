@@ -8,3 +8,6 @@ def home(request):
 
 def samplepage(request):
     return render(request,'samplepage.html')
+
+def signup(request):
+    return render(request,'signup.html')
